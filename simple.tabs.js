@@ -1,5 +1,5 @@
 /*!
-* simple-tabs, version 1.0.0
+* simple-tabs, version 1.0.0 <https://github.com/yat8823jp/simple.tabs>
 * Auther YAT http://wp.yat-net.com
 * Copyright 2016 YAT
 * Lisence GPLv3 any later version.
